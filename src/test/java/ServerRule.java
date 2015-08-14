@@ -5,7 +5,7 @@ public class ServerRule extends ExternalResource {
 
    protected void before() {
      String[] args= {};
-     ProgeamName.main(args);
+     FoShizzle.main(args);
    }
    protected void after() {
      Spark.stop();
