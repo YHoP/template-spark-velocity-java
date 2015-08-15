@@ -1,9 +1,9 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-archivesBaseName = "RockPaper"
+archivesBaseName = "ProgramfolderName"
 version = '1.0'
-mainClassName = "RockPaper"
+mainClassName = "ProgramName"
 
 repositories {
     mavenCentral()
